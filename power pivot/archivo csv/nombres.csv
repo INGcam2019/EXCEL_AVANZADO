@@ -1,0 +1,8 @@
+"power pivot ayuda a extraer bases de datos desde cualquier origen,relaiona
+tablas y realiza formulas avanzadas con lenguaje DAX(expresiones analisis 
+para datos)
+en este ejercicio vamos a un block de notas,creamos un archivos separado por 
+comas donde los dos primeros nombres seran los encabezados y luego el
+contenido debemos seguir escribiendo separados por comas .se guarda con 
+extension csv(hace referencia separados por comas) ya podemos exportar en 
+power pivot y trabajar con los datos.cuando los datos son importados y queremos anexar datos para que se vean en el bloc de notas los separamos por comas y lo abrimos con extension .txt"
